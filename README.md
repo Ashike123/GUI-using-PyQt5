@@ -1,5 +1,4 @@
 # GUI-using-PyQt5
-Implementation of GUI for apps boards
 gui_app_1.py will produce a gui as shown below. Some areas are greyed out. 
 xc9283_84.py contains the script to send the commands to an MCU with USBTMC implemented.
 Recommended: Its required to connect the board to the PC for the proper working of the code.
